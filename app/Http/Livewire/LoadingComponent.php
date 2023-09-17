@@ -10,6 +10,11 @@ class LoadingComponent extends Component
 
 
     }
+
+    public function submit2(){
+
+
+    }
     public function render()
     {
         return view('livewire.loading-component');
